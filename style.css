@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    font-size: 62.9%;
+}
+
+.container{
+    width: 90%;
+    background-color: #eee;
+    margin: 50px auto;
+    padding-bottom: 50px;
+}
+
+.container .top h1{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.container .top h4{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 1.5rem;
+}
+.container .top h6{
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 1.2rem; 
+}
+
+.container .top p{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.img{
+    width: 80%;
+    margin: 40px auto;
+}
+
+.img img{
+    margin: 0px auto;
+    border-radius: 50%;
+    display: block;
+}
+
+.img .caption{
+    background-color: rgb(219, 217, 217);
+    text-align: center;
+    padding: 10px 0px;
+    border-radius: 10px;
+}
+
+.desc{
+    width: 80%;
+    margin: 15px auto;
+}
+.desc h4{
+    text-align: left;
+    font-size: 1.5rem;
+    margin: 10px 0px;
+}
+
+.desc ul{
+    padding-left: 50px;
+}
+.desc ul li{
+    margin: 5px 0px;
+}
+.desc ul li span{
+    font-weight: bold;
+}
+
+.desc p{
+    text-align: center;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+.autor{
+    font-style: italic;
+    width: 90%;
+    margin: 0px auto;
+}
+
